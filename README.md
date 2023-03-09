@@ -1,0 +1,7 @@
+# Missing Pet Frequency and Relationship to Local Events or Weather 
+
+## Abstract
+
+Pet ownership is prevalent in the United States, and pets can go missing. Previous research into pet ownership and the conditions under which pets may go missing have identified weather and local events that generate noise as factors. The purpose of this study is to further analyze the relationships between local events or weather and missing pet report frequencies. Two null hypotheses were tested: that report frequency was not significantly related to fireworks events, and that report frequency was not significantly related to weather conditions. Missing pet report volumes were acquired for the United States from the non-profit organization Pets Found by Internet (Pet FBI). Welch's t-test was used to test the relationship to fireworks events, finding support to reject the null hypothesis and an average increase in pet report frequency of 19%. Weather data for central Ohio was acquired from the Global Historical Climatology Network daily (GHCNd) database along with missing pet report volumes for the same area. Ordinary least squares regression was used to test the relationship of missing pet reports to weather, finding support to reject the null hypothesis and a model that could explain 68% of the variance in report volume. These findings can assist organizations that work with missing pets by understanding the impact of changing conditions on missing pets and planning accordingly.
+
+> *Keywords:* missing pets, weather, fireworks
